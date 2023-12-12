@@ -1,0 +1,1 @@
+Fluid simulation is based on the Lattice Boltzmann methhod
