@@ -1,1 +1,2 @@
-Fluid simulation is based on the Lattice Boltzmann methhod
+This repository is a compilation of various physics simulations written in Python.
+
